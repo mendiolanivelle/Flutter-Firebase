@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "67836437977",
+    "firebase_url": "https://coffee-ee80c.firebaseio.com",
+    "project_id": "coffee-ee80c",
+    "storage_bucket": "coffee-ee80c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67836437977:android:2c8c7209ab871a857725c8",
+        "android_client_info": {
+          "package_name": "exodia.ph.exodia.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67836437977-6k7hd9ftlnha8qsm00i11i4m4bcb6j8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0FwLQEYO1p_h_Jv6tv8vEp4FIRk_x0k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67836437977-6k7hd9ftlnha8qsm00i11i4m4bcb6j8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
